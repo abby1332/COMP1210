@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>AgeStatistics</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>2</X>
+      <Y>50</Y>
+      <W>474</W>
+      <H>100</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.util.Scanner` userInput</Expression>
+      <ViewerClass>jgrasp_viewers.java__util__Scanner_PresentationView</ViewerClass>
+      <ViewerData>
+        <Round>false</Round>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>499</W>
+    <H>285</H>
+  </Size>
+  <ESize>
+    <W>499</W>
+    <H>285</H>
+  </ESize>
+</Canvas>
